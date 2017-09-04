@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Mail Application Community
+Comment[zh_CN]=龙芯邮箱
+Exec=/opt/mail/find-chrome.sh -app=http://mail.loongson.cn
+Name=Application Community
+Name[zh_CN]=龙芯邮箱
+Type=Application
+Icon=/opt/loongson-mail/loongson-mail.png
+
